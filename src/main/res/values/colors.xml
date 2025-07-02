@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF4081</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="surface_variant_light">#F5F5F5</color>
+    <color name="surface_variant_dark">#2D2D2D</color>
+    
+    <!-- Simple color names for layout -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary_light">#212121</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_light">#757575</color>
+    <color name="text_secondary_dark">#B3FFFFFF</color>
+    
+    <!-- Message Colors -->
+    <color name="message_sent_light">#E3F2FD</color>
+    <color name="message_sent_dark">#1565C0</color>
+    <color name="message_received_light">#F5F5F5</color>
+    <color name="message_received_dark">#424242</color>
+    
+    <!-- Status Colors -->
+    <color name="status_connected">#4CAF50</color>
+    <color name="status_disconnected">#F44336</color>
+    <color name="status_connecting">#FF9800</color>
+    
+    <!-- Common Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Divider Colors -->
+    <color name="divider_light">#E0E0E0</color>
+    <color name="divider_dark">#424242</color>
+    
+    <!-- Splash Animation Colors -->
+    <color name="splash_background">#1976D2</color>
+    <color name="splash_text">#FFFFFF</color>
+    
+    <!-- Material3 Colors -->
+    <color name="md_theme_light_primary">#006C4C</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#89F8C7</color>
+    <color name="md_theme_light_onPrimaryContainer">#002114</color>
+    <color name="md_theme_light_secondary">#4C6358</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#CFE9DB</color>
+    <color name="md_theme_light_onSecondaryContainer">#092017</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FBFDF9</color>
+    <color name="md_theme_light_onBackground">#191C1A</color>
+    <color name="md_theme_light_surface">#FBFDF9</color>
+    <color name="md_theme_light_onSurface">#191C1A</color>
+    <color name="md_theme_light_surfaceVariant">#DCE5DD</color>
+    <color name="md_theme_light_onSurfaceVariant">#404943</color>
+    <color name="md_theme_light_outline">#707973</color>
+    <color name="md_theme_light_inverseOnSurface">#EFF1ED</color>
+    <color name="md_theme_light_inverseSurface">#2E312F</color>
+    <color name="md_theme_light_inversePrimary">#6CDBAB</color>
+    <color name="md_theme_light_shadow">#000000</color>
+    <color name="md_theme_light_surfaceTint">#006C4C</color>
+    <color name="md_theme_light_outlineVariant">#BFC9C2</color>
+    <color name="md_theme_light_scrim">#000000</color>
+    
+    <color name="md_theme_dark_primary">#6CDBAB</color>
+    <color name="md_theme_dark_onPrimary">#003825</color>
+    <color name="md_theme_dark_primaryContainer">#005138</color>
+    <color name="md_theme_dark_onPrimaryContainer">#89F8C7</color>
+    <color name="md_theme_dark_secondary">#B3CCBF</color>
+    <color name="md_theme_dark_onSecondary">#1F352B</color>
+    <color name="md_theme_dark_secondaryContainer">#354B41</color>
+    <color name="md_theme_dark_onSecondaryContainer">#CFE9DB</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#191C1A</color>
+    <color name="md_theme_dark_onBackground">#E1E3DF</color>
+    <color name="md_theme_dark_surface">#191C1A</color>
+    <color name="md_theme_dark_onSurface">#E1E3DF</color>
+    <color name="md_theme_dark_surfaceVariant">#404943</color>
+    <color name="md_theme_dark_onSurfaceVariant">#BFC9C2</color>
+    <color name="md_theme_dark_outline">#89938C</color>
+    <color name="md_theme_dark_inverseOnSurface">#191C1A</color>
+    <color name="md_theme_dark_inverseSurface">#E1E3DF</color>
+    <color name="md_theme_dark_inversePrimary">#006C4C</color>
+    <color name="md_theme_dark_shadow">#000000</color>
+    <color name="md_theme_dark_surfaceTint">#6CDBAB</color>
+    <color name="md_theme_dark_outlineVariant">#404943</color>
+    <color name="md_theme_dark_scrim">#000000</color>
+    
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="message_sent_color">#E3F2FD</color>
+    <color name="message_received_color">#F5F5F5</color>
+    
+    <!-- Voice Activity Colors -->
+    <color name="primary_color">#2196F3</color>
+    <color name="background_color">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="error_color">#F44336</color>
+    <color name="voice_inactive">#9E9E9E</color>
+    <color name="push_to_talk_normal">#2196F3</color>
+    <color name="push_to_talk_active">#F44336</color>
+</resources> 
